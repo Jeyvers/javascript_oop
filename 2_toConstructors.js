@@ -1,0 +1,18 @@
+// TO CONSTRUCTORS *ES5
+// book is now a constructor. 
+function Book(title, author, year){
+    this.title = title;
+    this.author = author;
+    this.year = year;
+
+    this.getSummary = function(){
+        return `${this.title} was written by ${this.author} in ${this.year}`;
+      }
+
+}
+
+// Instantiate an object. When you instantiate an object from the constructor, it runs whatever is in the constructor. 
+const book1 = new Book('Book One','John Doe', '2013');
+const book2 = new Book('Book Two', 'Jane Doe', '2016')
+
+console.log(book1)

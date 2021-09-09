@@ -1,0 +1,23 @@
+Transitioned into tech, got a junior software developer job in two months. 
+a. WHen you were studying on your own, what was your routine? 
+How many hours,a day. 
+- From zero to expert 
+HTML, CSS & JavaScript. 
+Bootcamp. 
+Lighthouse Labs
+3 months full BootcampVirual Meeting 
+Assesments - critical thinking , basic JavaScript quiz, so many times 
+FreeCodeBootCamp
+
+-  The structure that bootcamp offered. 
+- Interview (Depends on where you're applying, Different technologies that i used and projects built, thought process)
+- Every Interview you do will help you
+- Remote Jobs, Bootcamp route helped to know she was job ready, Practice data structure and algorithm questions, resume & portfolio
+- Contractor? No visa to sponsor you to work there. The bigger the company, the better the company. 
+- Bootcamps are stressful. 12 weeks (3 months). Learn how to learn. Learn to be very uncomfortable. 6grand. 
+- Fullstack (Mobile, Andriod and IOS development).
+- Python, Jango, ReactJs, ReactNative, JavaScript, OOP, NextJs, GoLang, MaterialUI, Redux. (super good projects for your portfolio, most impressive Fullstack app that tracks your application)
+- Security back practices, Web Security and authentication.
+- Make your wishlist and try to stick to it. 
+
+

@@ -1,0 +1,8 @@
+Scheme:
+
+Object Literals 
+What is an object 
+Construct functions 
+Prototypes
+Object Create Method 
+ES6 classes (syntactic sugars)
