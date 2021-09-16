@@ -1,0 +1,12 @@
+#JavaScript Objects
+- An object is a standalone entity, with properties and type, which define their characteristics. 
+- Unassigned properties of an object are undefined (and not null).
+- JavaScript object property names (keys) can only be strings or Symbols
+- The values are written as name:value pairs (name and value separated by a colon).
+- Any variable declared with the new keyword becomes an object
+
+JAVASCRIPT TUTORIALS FROM W3 SCHOOLS
+UNDERSTANDING DATE OBJECTS:
+
+
+

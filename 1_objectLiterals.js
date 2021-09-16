@@ -6,6 +6,7 @@
 //  console.log(typeof s2);
 //  By default, most data types are primitive. Reread on primitive and reference types. 
 
+// DOM Objects
 // console.log(window);
 // console.log(navigator.appVersion)
 // Manipulate some of the window methods to gain knowledge and understanding. 
@@ -26,7 +27,7 @@ const bookOne = {
 
 // console.log(book1.getSummary());
 
-// To get all values in an object(values: what was passed into each key), (keys: the name of the 'variable);
+// To get all values in an object(values: what was passed into each key), (keys: the name of the 'variable); THis would give you an array of the values or keys inside the object. 
 // console.log(Object.values(book1));
 // console.log(Object.keys(book1));
 
